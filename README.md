@@ -1,1 +1,1 @@
-# Hazard_entry
+# 隐患录入端
